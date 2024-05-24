@@ -9,3 +9,5 @@ El objetivo principal del patrón Decorator es extender la funcionalidad de los 
 
 ![Desktop Screenshot 2024 05 23 - 10 29 13 95](https://github.com/Toca-melo/PatronesDeDiseno/assets/114452776/de61b105-a5ff-46df-9cfe-21f401fc0f82)
 
+# Patrón Singleton
+Lo que hice fue crear una instancia de una clase que contenia una lista de marca de carro En la clase singleton esta contenida toda la informacion de las algunas marcas de carros guardadas en una lista En si este patron de diseno lo que garantiza es que se haga una sola instancia de esta lista en toda la aplicacion.
